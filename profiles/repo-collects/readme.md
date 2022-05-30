@@ -3,25 +3,25 @@
 
 |icon|say|url|
 |---|---|---|
-|![]()|`stolen pipeline`|`https://github.com/stolen/pipeline.git`|
-|![]()|`stolen edflow`|`https://github.com/stolen/edflow.git`|
-|![]()|`choptastic pipeline`|`https://github.com/choptastic/pipeline.git`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
-|![]()|`x`|`xx`|
+|[![]()]()|`stolen pipeline`|`https://github.com/stolen/pipeline.git`|
+|[![]()]()|`stolen edflow`|`https://github.com/stolen/edflow.git`|
+|[![]()]()|`choptastic pipeline`|`https://github.com/choptastic/pipeline.git`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
+|[![]()]()|`x`|`xx`|
 
 
 
