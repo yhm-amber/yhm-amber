@@ -1,9 +1,7 @@
 
 texts :
 
-~~~~ text
-
-~~~~
+[`says`](says)
 
 sh :
 
@@ -12,24 +10,66 @@ repo_say ()
 {
     s ()
     {
-        echo "$@" &&
+        : demo:
+        : s stolen pipeline ...other_something_maybe_or_nothing
+        : should out: stolen pipeline
+        
+        : ::: - ::: :;
+        
+        local user="$1" && shift 1 &&
+        local repo="$1" && shift 1 &&
+        
+        echo "$user" "$repo" &&
         
         :;
     } &&
     
     r ()
     {
-        local prefix="$1" &&
-        shift 1 &&
+        : demo:
+        : r 'https://github.com' stolen pipeline ...other_something_maybe_or_nothing
+        : should out: https://github.com/stolen/pipeline.git
         
-        echo "$prefix"/"$1"/"$2".git &&
+        : ::: - ::: :;
+        
+        local prefix="$1" && shift 1 &&
+        local user="$1" && shift 1 &&
+        local repo="$1" && shift 1 &&
+        
+        echo "$prefix"/"$user"/"$repo".git &&
         
         :;
     } &&
     
     d ()
     {
-        echo "$1"."$2" &&
+        : demo:
+        : d stolen pipeline ...other_something_maybe_or_nothing
+        : should out: stolen.pipeline
+        
+        : ::: - ::: :;
+        
+        local user="$1" && shift 1 &&
+        local repo="$1" && shift 1 &&
+        
+        echo "${user}.${repo}" &&
+        
+        :;
+    } &&
+    
+    n ()
+    {
+        : demo:
+        : d some_value some_value 'https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png' ...other_something_maybe_or_nothing
+        : should out: https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png
+        
+        : ::: - ::: :;
+        
+        shift 1 && shift 1 &&
+        
+        local avatar_url="$1" && shift 1 &&
+        
+        echo "$avatar_url" &&
         
         :;
     } &&
@@ -48,7 +88,7 @@ repo_tb ()
     echo '|[![]()]()|`'"$(repo_say s "$@")"'`|`'"$(repo_say r https://github.com "$@")"'`|'
 } && export -f -- repo_say repo_tb ;
 
-cat texts | xargs -i -- sh -c 'repo_tb {}'
+cat says | xargs -i -- sh -c 'repo_tb {}'
 ~~~~
 
 ### head md tb
@@ -56,9 +96,9 @@ cat texts | xargs -i -- sh -c 'repo_tb {}'
 ~~~~ sh
 repo_hd ()
 {
-    echo '[![`'"$(repo_say d "$@")"'`]('"$(repo_say d "$@")"'-xxxx.png)](https://avatars.xxx/u/xxxx)'
+    echo '[![`'"$(repo_say d "$@")"'`]('"$(repo_say d "$@")"'-xxxx.png)]('"$(repo_say n "$@")"')'
 } && export -f -- repo_say repo_hd ;
 
-cat texts | xargs -i -- sh -c 'repo_hd {}'
+cat says | xargs -i -- sh -c 'repo_hd {}'
 ~~~~
 
