@@ -63,7 +63,7 @@ repo_say ()
     n ()
     {
         : demo:
-        : d some_value some_value 'https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png' ...other_something_maybe_or_nothing
+        : n some_value some_value 'https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png' ...other_something_maybe_or_nothing
         : should out: https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png
         
         : ::: - ::: :;
@@ -80,7 +80,7 @@ repo_say ()
     w ()
     {
         : demo:
-        : d some_value some_value 'some_value' 'https://kouchat.net' ...other_something_maybe_or_nothing
+        : w some_value some_value 'some_value' 'https://kouchat.net' ...other_something_maybe_or_nothing
         : should out: https://kouchat.net
         
         : ::: - ::: :;
