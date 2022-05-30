@@ -3,6 +3,8 @@ texts :
 
 [`says`](says)
 
+`user` `repo` `avatar_url` `offical_url`
+
 sh :
 
 ~~~ sh
@@ -65,11 +67,29 @@ repo_say ()
         
         : ::: - ::: :;
         
-        shift 1 && shift 1 &&
-        
+        shift 1 &&
+        shift 1 &&
         local avatar_url="$1" && shift 1 &&
         
         echo "$avatar_url" &&
+        
+        :;
+    } &&
+    
+    w ()
+    {
+        : demo:
+        : d some_value some_value 'some_value' 'https://kouchat.net' ...other_something_maybe_or_nothing
+        : should out: https://kouchat.net
+        
+        : ::: - ::: :;
+        
+        shift 1 &&
+        shift 1 &&
+        shift 1 &&
+        local offical_url="$1" && shift 1 &&
+        
+        echo "$offical_url" &&
         
         :;
     } &&
