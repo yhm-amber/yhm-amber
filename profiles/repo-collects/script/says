@@ -16,5 +16,6 @@ gh blurpy kouchat-android    'https://f-droid.org/repo/icons-640/net.usikkert.ko
 gh kontalk network    'https://f-droid.org/repo/org.kontalk/en-US/icon_FRNePbMVYAebD0s0B4ZPapQYiApACIernuOThbsKb2s=.png'   'https://kontalk.org/'
 
 gh webmachine webmachine    ''   'https://github.com/webmachine/webmachine/wiki/'
+gh webmachine webmachine.wiki    ''   ''
 
 gh purocean yn    ''   'https://yank-note.vercel.app/'
