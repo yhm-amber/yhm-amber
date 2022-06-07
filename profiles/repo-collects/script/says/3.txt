@@ -1,3 +1,9 @@
+gh blurpy kouchat    'https://www.kouchat.net/images/kou_icon.png'   'https://kouchat.net/'    'KouChat'
+gh blurpy kouchat-android    'https://f-droid.org/repo/icons-640/net.usikkert.kouchat.android.16.png'    'https://kouchat.net/'    'KouChat for Android'
+
+
+
+
 gh kontalk network    'https://f-droid.org/repo/org.kontalk/en-US/icon_FRNePbMVYAebD0s0B4ZPapQYiApACIernuOThbsKb2s=.png'   'https://kontalk.org/'     'Kontalk Public Network'
 
 
