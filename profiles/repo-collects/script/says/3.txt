@@ -1,0 +1,8 @@
+gh kontalk network    'https://f-droid.org/repo/org.kontalk/en-US/icon_FRNePbMVYAebD0s0B4ZPapQYiApACIernuOThbsKb2s=.png'   'https://kontalk.org/'     'Kontalk Public Network'
+
+
+gh rustdesk rustdesk    'https://avatars.githubusercontent.com/u/71636191'   'https://rustdesk.com/'     'Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.'
+gh rustdesk rustdesk-server    'https://avatars.githubusercontent.com/u/71636191'   'https://rustdesk.com/server'     'RustDesk Server Program'
+gh rustdesk rustdesk-server-demo    'https://avatars.githubusercontent.com/u/71636191'   'https://rustdesk.com/'     'A working demo of RustDesk server implementation'
+gh rustdesk doc.rustdesk.com     'https://avatars.githubusercontent.com/u/71636191'    'https://rustdesk.com/docs/'     'Document of RustDesk'
+
