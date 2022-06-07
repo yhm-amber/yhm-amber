@@ -69,7 +69,7 @@ dnf -y in -- cockpit wget git rsync
 
 ~~~ sh
 systemctl enable --now -- cockpit.socket
-firewall-cmd --add--service cockpit --permanent
+firewall-cmd --add-service cockpit --permanent
 ~~~
 
 ## Debian
@@ -102,7 +102,7 @@ yum -y install -- cockpit wget git rsync telnet net-tools
 
 ~~~ sh
 systemctl enable --now -- cockpit.socket
-firewall-cmd --add--service cockpit --permanent
+firewall-cmd --add-service cockpit --permanent
 ~~~
 
 
