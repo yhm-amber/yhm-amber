@@ -60,7 +60,7 @@ nothing now ...
 #### pkg
 
 ~~~ sh
-dnf in -y -- cockpit wget git rsync
+dnf -y in -- cockpit wget git rsync
 ~~~
 
 #### ops
@@ -77,6 +77,14 @@ firewall-cmd --add--service cockpit --permanent
 ## Deepin
 
 ## AlpineLinux
+
+## fedora
+
+### 35
+
+## Manjaro
+
+### latest
 
 ## CentOS
 
