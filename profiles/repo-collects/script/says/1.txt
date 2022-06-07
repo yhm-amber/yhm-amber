@@ -1,0 +1,15 @@
+
+gh k0sproject k0sctl    'https://avatars.githubusercontent.com/u/72999283'   ''    'A bootstrapping and management tool for k0s clusters.'
+gh k0sproject k0sproject.github.io    'https://avatars.githubusercontent.com/u/72999283'   ''    'The k0s Kubernetes - Website'
+gh k0sproject k0s    'https://avatars.githubusercontent.com/u/72999283'    'https://docs.k0sproject.io/'    'k0s - The Zero Friction Kubernetes by Team Lens'
+
+
+
+gh pixie-io pixie    'https://avatars.githubusercontent.com/u/82631609'    'https://px.dev/'    'Instant Kubernetes-Native Application Observability'
+gh pixie-io docs.px.dev    ''    ''     'Pixie Documentation'
+gh pixie-io pxapi.go    ''    'https://pkg.go.dev/px.dev/pxapi'     ''
+gh pixie-io pixie-plugin     ''    ''     'The plugin repository for plugins in Pixie (px.dev).'
+gh pixie-io blog.px.dev     ''     'https://blog.px.dev/'     'Pixie Blog's by community, guest and pixie-team contributors'
+gh pixie-io pixie-demos     ''      'https://px.dev/'     'Demos for Pixie: github.com/pixie-io/pixie'
+
+
