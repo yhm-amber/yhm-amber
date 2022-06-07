@@ -4,34 +4,13 @@ gh stolen edflow    ''   ''    'Erlang Dataflow programming framework'
 gh choptastic pipeline    ''   ''     '(forked from stolen/pipeline) Erlang pipeline parse_transform allowing to apply list of functions'
 
 
-
-gh webmachine webmachine    'https://avatars.githubusercontent.com/u/12663056'   'https://github.com/webmachine/webmachine/wiki/'     'A REST-based system for building web applications.'
-gh webmachine webmachine.wiki    'https://avatars.githubusercontent.com/u/12663056'   ''     'webmachine wiki on github'
-
-
-
-gh blurpy kouchat    'https://www.kouchat.net/images/kou_icon.png'   'https://kouchat.net/'    'KouChat'
-gh blurpy kouchat-android    'https://f-droid.org/repo/icons-640/net.usikkert.kouchat.android.16.png'    'https://kouchat.net/'    'KouChat for Android'
-
-
-
 gh purocean yn    ''   'https://yank-note.vercel.app/'     'A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.'
 
 
-gh k0sproject k0sctl    'https://avatars.githubusercontent.com/u/72999283'   ''    'A bootstrapping and management tool for k0s clusters.'
-gh k0sproject k0sproject.github.io    'https://avatars.githubusercontent.com/u/72999283'   ''    'The k0s Kubernetes - Website'
-gh k0sproject k0s    'https://avatars.githubusercontent.com/u/72999283'    'https://docs.k0sproject.io/'    'k0s - The Zero Friction Kubernetes by Team Lens'
 
 
-gh pixie-io pixie    'https://avatars.githubusercontent.com/u/82631609'    'https://px.dev/'    'Instant Kubernetes-Native Application Observability'
-gh pixie-io docs.px.dev    ''    ''     'Pixie Documentation'
-gh pixie-io pxapi.go    ''    'https://pkg.go.dev/px.dev/pxapi'     ''
-gh pixie-io pixie-plugin     ''    ''     'The plugin repository for plugins in Pixie (px.dev).'
-gh pixie-io blog.px.dev     ''     'https://blog.px.dev/'     'Pixie Blog's by community, guest and pixie-team contributors'
-gh pixie-io pixie-demos     ''      'https://px.dev/'     'Demos for Pixie: github.com/pixie-io/pixie'
-
-
-
+gh webmachine webmachine    'https://avatars.githubusercontent.com/u/12663056'   'https://github.com/webmachine/webmachine/wiki/'     'A REST-based system for building web applications.'
+gh webmachine webmachine.wiki    'https://avatars.githubusercontent.com/u/12663056'   ''     'webmachine wiki on github'
 
 
 
