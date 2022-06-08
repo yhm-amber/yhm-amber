@@ -7,6 +7,7 @@
 
 ~~~ sh
 helm repo add -- openebs https://openebs.github.io/charts
+helm repo add -- kubesphare-main https://charts.kubesphere.io/main
 helm repo add -- jetstack https://charts.jetstack.io
 helm repo add -- harbor https://helm.goharbor.io
 helm repo add -- rancher-stable https://releases.rancher.com/server-charts/stable
