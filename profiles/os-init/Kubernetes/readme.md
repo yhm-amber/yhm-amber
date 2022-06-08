@@ -26,6 +26,23 @@ echo  openebs/openebs jetstack/cert-manager harbor/harbor rancher-stable/rancher
 find -maxdepth 2 -mindepth 2
 ~~~
 
+need `helm dependency build` :
+
+~~~ sh
+helm repo add -- ygqygq2 https://ygqygq2.github.io/charts
+~~~
+
+~~~ sh
+helm pull --untardir ygqygq2 --untar -- ygqygq2/nacos
+helm pull --untardir ygqygq2 --untar -- ygqygq2/mysql
+~~~
+
+~~~ sh
+(cd ygqygq2/nacos && helm dependency build) &
+(cd ygqygq2/mysql && helm dependency build) &
+wait
+~~~
+
 #### ops
 
 ~~~ sh
@@ -36,6 +53,11 @@ helm install --namespace goharbor-hub --create-namespace -- hub harbor/harbor
 
 ~~~ sh
 helm install --namespace cattle-system --create-namespace --set hostname=10.100.11.101.sslip.io --set replicas=n --set bootstrapPassword='321 !@# aA ~~' -- rancher rancher-stable/rancher
+~~~
+
+~~~ sh
+helm install --namespace nacos --create-namespace -- mysql ygqygq2/nacos
+helm install --namespace mysql --create-namespace --set root.password='123#@!AaA' -- mysql ygqygq2/mysql
 ~~~
 
 
