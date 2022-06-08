@@ -60,7 +60,7 @@ nothing now ...
 #### pkg
 
 ~~~ sh
-dnf -y in -- cockpit wget git rsync
+dnf -y in -- cockpit wget git rsync screen
 ~~~
 
 #### ops
@@ -93,7 +93,7 @@ firewall-cmd --add-service cockpit --permanent
 #### pkg
 
 ~~~ sh
-yum -y install -- cockpit wget git rsync telnet net-tools
+yum -y install -- cockpit wget git rsync telnet net-tools screen sshpass
 ~~~
 
 #### ops
