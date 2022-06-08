@@ -93,7 +93,7 @@ firewall-cmd --add-service cockpit --permanent
 #### pkg
 
 ~~~ sh
-yum -y install -- cockpit wget git rsync telnet net-tools screen sshpass
+yum -y install -- cockpit wget git rsync telnet net-tools screen sshpass bind-utils
 ~~~
 
 #### ops
