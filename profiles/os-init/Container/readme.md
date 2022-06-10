@@ -88,6 +88,14 @@ kubesphere/ks-jenkins:v3.2.0-2.249.1
 kubesphere/s2ioperator:v3.2.0
 ~~~
 
+#### radondb
+
+##### `operators`
+
+~~~
+radondb/mysql-operator:v2.1.4
+~~~
+
 #### rancher
 
 ##### `cattle-system`
