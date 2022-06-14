@@ -1,9 +1,19 @@
 
+
+## sealos
+
+v4 or later
+
+### pkg
+
+### ops
+
+
 ## helm
 
-### 3
+v3 or later
 
-#### pkg
+### pkg
 
 ~~~ sh
 helm repo add -- openebs https://openebs.github.io/charts
@@ -43,7 +53,7 @@ helm pull --untardir ygqygq2 --untar -- ygqygq2/mysql
 wait
 ~~~
 
-#### ops
+### ops
 
 ~~~ sh
 helm install --namespace openebs --create-namespace -- openebs openebs/openebs ; kubectl patch storageclass -p '{"metadata": {"annotations":{"storageclass.kubernetes.io/is-default-class":"true"}}}' -- openebs-hostpath
@@ -60,7 +70,7 @@ helm install --namespace nacos --create-namespace -- mysql ygqygq2/nacos
 helm install --namespace mysql --create-namespace --set root.password='123#@!AaA' -- mysql ygqygq2/mysql
 ~~~
 
-
+## operators
 
 
 
