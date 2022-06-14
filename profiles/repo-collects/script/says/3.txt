@@ -1,3 +1,5 @@
+gh SecUSo privacy-friendly-qr-scanner     'https://f-droid.org/repo/com.secuso.privacyFriendlyCodeScanner/en-US/icon_A7IKunZN-gASzfbGirBAp7QBXtVB3wUUr0pkyfeLqMU=.png'     'https://secuso.aifb.kit.edu/QR_Scanner.php'       'Privacy Friendly QR Code Scanner for Android'
+
 gh blurpy kouchat    'https://www.kouchat.net/images/kou_icon.png'   'https://kouchat.net/'    'KouChat'
 gh blurpy kouchat-android    'https://f-droid.org/repo/icons-640/net.usikkert.kouchat.android.16.png'    'https://kouchat.net/'    'KouChat for Android'
 
