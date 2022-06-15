@@ -60,7 +60,8 @@ nothing now ...
 #### pkg
 
 ~~~ sh
-dnf -y in -- cockpit wget git rsync screen
+dnf -y up
+dnf -y in -- cockpit wget git rsync screen git net-tools sshpass bind-utils mariadb
 ~~~
 
 #### ops
@@ -93,6 +94,7 @@ firewall-cmd --add-service cockpit --permanent
 #### pkg
 
 ~~~ sh
+yum -y update
 yum -y install -- cockpit wget git rsync telnet net-tools screen sshpass bind-utils mariadb
 ~~~
 
