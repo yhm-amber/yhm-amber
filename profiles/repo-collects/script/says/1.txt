@@ -1,6 +1,8 @@
 
 gh bevyengine bevy     'https://avatars.githubusercontent.com/u/60047606'     'https://bevyengine.org/'     'A refreshingly simple data-driven game engine built in Rust ; 数据驱动的游戏引擎，指南可以看 https://yiviv.com/bevy-cheatbook'
 
+gh coollabsio coolify     'https://avatars.githubusercontent.com/u/60715044'     'https://coolify.io/'     'An open-source & self-hostable Heroku / Netlify alternative.'
+
 gh k0sproject k0sctl    'https://avatars.githubusercontent.com/u/72999283'   ''    'A bootstrapping and management tool for k0s clusters.'
 gh k0sproject k0sproject.github.io    'https://avatars.githubusercontent.com/u/72999283'   ''    'The k0s Kubernetes - Website'
 gh k0sproject k0s    'https://avatars.githubusercontent.com/u/72999283'    'https://docs.k0sproject.io/'    'k0s - The Zero Friction Kubernetes by Team Lens'
