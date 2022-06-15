@@ -1,4 +1,6 @@
 
+gh CeresDB ceresdb      'https://avatars.githubusercontent.com/u/77516929'     ''     'CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.'
+
 gh neondatabase neon    'https://avatars.githubusercontent.com/u/77690634'   'https://neon.tech/'     'The serverless open source alternative to AWS Aurora Postgres.'
 gh neondatabase website    'https://avatars.githubusercontent.com/u/77690634'   'https://neon.tech/'     'neon website'
 
