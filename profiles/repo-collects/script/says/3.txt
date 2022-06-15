@@ -1,3 +1,4 @@
+gh p4ddy1 gbemulator     ''     ''      'Gameboy Emulator in Rust'
 gh beemdevelopment Aegis     'https://getaegis.app/images/icon.png  https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png'    'https://getaegis.app'     'A free, secure and open source app for Android to manage your 2-step verification tokens.'
 
 
