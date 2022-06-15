@@ -1,4 +1,5 @@
 gh pola-rs polars     'https://avatars.githubusercontent.com/u/83768144'     'https://pola.rs/'     'Fast multi-threaded DataFrame library in Rust | Python | Node.js'
+gh douchuan algorithm     ''     ''     'Algorithms written in Rust'
 
 gh CeresDB ceresdb      'https://avatars.githubusercontent.com/u/77516929'     ''     'CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.'
 
