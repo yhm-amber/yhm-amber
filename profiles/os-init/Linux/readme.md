@@ -63,6 +63,8 @@ nothing now ...
 dnf -y up
 dnf -y in -- cockpit wget git rsync screen git net-tools sshpass bind-utils virt-install
 dnf -y in -- postgresql mariadb
+dnf -y in -- luajit cargo rebar elixir
+dnf -y in -- npm gem
 ~~~
 
 #### ops
