@@ -59,10 +59,12 @@ nothing now ...
 
 #### req
 
+~~~ voml
 wpp: https://www.openeuler.org/whitepaper/openEuler-whitepaper-2203.pdf
 playground: https://moocstudio.openeuler.sh/
 isos:
 - https://repo.openeuler.org/openEuler-22.03-LTS/ISO/x86_64/
+~~~
 
 #### pkg
 
@@ -103,6 +105,7 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 
 #### req
 
+~~~ voml
 isos:
 - http://isoredirect.centos.org/centos/7/isos/x86_64/
 - https://mirrors.ustc.edu.cn/centos/7.9.2009/isos/x86_64/
@@ -110,6 +113,7 @@ isos:
 - http://ftp.sjtu.edu.cn/centos/7.9.2009/isos/x86_64/
 - http://mirrors.163.com/centos/7.9.2009/isos/x86_64/
 - https://mirrors.tuna.tsinghua.edu.cn/centos/7.9.2009/isos/x86_64/
+~~~
 
 #### pkg
 
