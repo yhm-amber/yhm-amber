@@ -57,12 +57,11 @@ nothing now ...
 
 ### 22.03 LTS
 
+#### req
+
 wpp: https://www.openeuler.org/whitepaper/openEuler-whitepaper-2203.pdf
-
 playground: https://moocstudio.openeuler.sh/
-
 isos:
-
 - https://repo.openeuler.org/openEuler-22.03-LTS/ISO/x86_64/
 
 #### pkg
@@ -102,8 +101,9 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 
 ### 7.9.2009
 
-isos:
+#### req
 
+isos:
 - http://isoredirect.centos.org/centos/7/isos/x86_64/
 - https://mirrors.ustc.edu.cn/centos/7.9.2009/isos/x86_64/
 - http://mirrors.njupt.edu.cn/centos/7.9.2009/isos/x86_64/
