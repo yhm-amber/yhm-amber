@@ -45,7 +45,7 @@ zypper in -- virtualbox vagrant
 container
 
 ~~~ sh
-zypper in -- containerd podman buildah katacontainers cilium
+zypper in -- containerd podman buildah katacontainers
 zypper in -- docker docker-compose
 ~~~
 
@@ -61,7 +61,8 @@ nothing now ...
 
 ~~~ sh
 dnf -y up
-dnf -y in -- cockpit wget git rsync screen git net-tools sshpass bind-utils mariadb
+dnf -y in -- cockpit wget git rsync screen git net-tools sshpass bind-utils virt-install
+dnf -y in -- postgresql mariadb
 ~~~
 
 #### ops
