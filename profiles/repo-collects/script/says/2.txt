@@ -1,10 +1,10 @@
-gh pola-rs polars     'https://avatars.githubusercontent.com/u/83768144'     'https://pola.rs/'     'Fast multi-threaded DataFrame library in Rust | Python | Node.js'
-gh douchuan algorithm     ''     ''     'Algorithms written in Rust'
+gh pola-rs/polars     'https://avatars.githubusercontent.com/u/83768144'     'https://pola.rs/'     'Fast multi-threaded DataFrame library in Rust | Python | Node.js'
+gh douchuan/algorithm     ''     ''     'Algorithms written in Rust'
 
-gh CeresDB ceresdb      'https://avatars.githubusercontent.com/u/77516929'     ''     'CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.'
+gh CeresDB/ceresdb      'https://avatars.githubusercontent.com/u/77516929'     ''     'CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.'
 
-gh neondatabase neon    'https://avatars.githubusercontent.com/u/77690634'   'https://neon.tech/'     'The serverless open source alternative to AWS Aurora Postgres.'
-gh neondatabase website    'https://avatars.githubusercontent.com/u/77690634'   'https://neon.tech/'     'neon website'
+gh neondatabase/neon    'https://avatars.githubusercontent.com/u/77690634'   'https://neon.tech/'     'The serverless open source alternative to AWS Aurora Postgres.'
+gh neondatabase/website    'https://avatars.githubusercontent.com/u/77690634'   'https://neon.tech/'     'neon website'
 
 
 
