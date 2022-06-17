@@ -11,6 +11,10 @@ gh blurpy/kouchat    'https://www.kouchat.net/images/kou_icon.png'   'https://ko
 gh blurpy/kouchat-android    'https://f-droid.org/repo/icons-640/net.usikkert.kouchat.android.16.png'    'https://kouchat.net/'    'KouChat for Android'
 
 
+gh tailscale/tailscale     'https://avatars.githubusercontent.com/u/48932923'     'https://tailscale.com'     'The easiest, most secure way to use WireGuard and 2FA.'
+gh tailscale/tailscale-android     ''     'https://f-droid.org/packages/com.tailscale.ipn'     'Tailscale is a mesh VPN alternative that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports. Built on WireGuard®, Tailscale enables an incremental shift to zero-trust networking by implementing “always-on” remote access. This guarantees a consistent, portable, and secure experience independent of physical location.'
+gh juanfont/headscale     ''     ''     'An open source, self-hosted implementation of the Tailscale control server'
+
 
 
 gh kontalk/network    'https://f-droid.org/repo/org.kontalk/en-US/icon_FRNePbMVYAebD0s0B4ZPapQYiApACIernuOThbsKb2s=.png'   'https://kontalk.org/'     'Kontalk Public Network'
@@ -20,4 +24,7 @@ gh rustdesk/rustdesk    'https://avatars.githubusercontent.com/u/71636191'   'ht
 gh rustdesk/rustdesk-server    'https://avatars.githubusercontent.com/u/71636191'   'https://rustdesk.com/server'     'RustDesk Server Program'
 gh rustdesk/rustdesk-server-demo    'https://avatars.githubusercontent.com/u/71636191'   'https://rustdesk.com/'     'A working demo of RustDesk server implementation'
 gh rustdesk/doc.rustdesk.com     'https://avatars.githubusercontent.com/u/71636191'    'https://rustdesk.com/docs/'     'Document of RustDesk'
+
+
+
 
