@@ -3,7 +3,7 @@ texts :
 
 [`says`](says)
 
-`hub` `user` `repo` `avatar_url` `offical_url` `desc_oneline`
+`hub` `repo` `avatar_url` `offical_url` `desc_oneline`
 
 sh :
 
