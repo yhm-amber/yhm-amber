@@ -1,4 +1,8 @@
 
+gh termux/termux-app     'https://avatars.githubusercontent.com/u/8104776'     'https://f-droid.org/en/packages/com.termux'     'Termux - a terminal emulator application for Android OS extendible by variety of package'
+gh termux/termux-packages     ''     'https://termux.org'     'A build system and primary set of packages for Termux.'
+
+
 gh TachibanaGeneralLaboratories/download-navi     'https://f-droid.org/repo/com.tachibana.downloader/en-US/icon_Hyw-WJaW3eM4qTBAiCpeIfImHRPTpvxEUaPSHvDUuIY=.png'     'https://f-droid.org/en/packages/com.tachibana.downloader/'     'Free and Open Source software download manager'
 gh beemdevelopment/Aegis     'https://getaegis.app/images/icon.png  https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png'    'https://getaegis.app'     'A free, secure and open source app for Android to manage your 2-step verification tokens.'
 
@@ -14,6 +18,9 @@ gh blurpy/kouchat-android    'https://f-droid.org/repo/icons-640/net.usikkert.ko
 gh tailscale/tailscale     'https://avatars.githubusercontent.com/u/48932923'     'https://tailscale.com'     'The easiest, most secure way to use WireGuard and 2FA.'
 gh tailscale/tailscale-android     ''     'https://f-droid.org/packages/com.tailscale.ipn'     'Tailscale is a mesh VPN alternative that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports. Built on WireGuard®, Tailscale enables an incremental shift to zero-trust networking by implementing “always-on” remote access. This guarantees a consistent, portable, and secure experience independent of physical location.'
 gh juanfont/headscale     ''     ''     'An open source, self-hosted implementation of the Tailscale control server'
+
+gh Dreamacro/clash     'https://github.com/Dreamacro/clash/raw/master/docs/logo.png'     ''     'A rule-based tunnel in Go.'
+gh Kr328/ClashForAndroid      'https://github.com/Dreamacro/clash/raw/master/docs/logo.png'     ''     'A rule-based tunnel for Android.'
 
 
 
