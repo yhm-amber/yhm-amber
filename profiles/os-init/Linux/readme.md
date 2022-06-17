@@ -73,7 +73,7 @@ dnf -y up
 dnf -y in -- cockpit wget git rsync screen git net-tools sshpass bind-utils virt-install
 dnf -y in -- postgresql mariadb
 dnf -y in -- luajit cargo rebar elixir
-dnf -y in -- npm gem
+dnf -y in -- npm gem golang
 ~~~
 
 #### ops
@@ -94,6 +94,33 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 ## fedora
 
 ### 35
+
+#### req
+
+#### pkg
+
+~~~ sh
+sudo dnf -y in -- dnf-plugins-core starship wget git rsync screen git net-tools sshpass bind-utils virt-install zsh jq
+sudo dnf -y in -- podman buildah
+sudo dnf -y in -- postgresql mariadb
+sudo dnf -y in -- luajit cargo rebar elixir
+sudo dnf -y in -- vagrant nomad packer waypoint boundary
+sudo dnf -y in -- npm gem golang
+~~~
+
+#### ops
+
+[`starship`](https://starship.rs/guide/#%F0%9F%9A%80-installation)
+
+- `eval "$(starship init bash)"` : Add the following to the end of `~/.bashrc`
+- `eval "$(starship init zsh)"` : Add the following to the end of `~/.zshrc`
+- `eval (starship init elvish)` : Add the following to the end of `~/.elvish/rc.elv`
+- `starship init fish | source` : Add the following to the end of `~/.config/fish/config.fish`
+- `Invoke-Expression (&starship init powershell)` : Add the following to the end of your PowerShell configuration (find it by running `$PROFILE` )
+- `execx($(starship init xonsh))` : Add the following to the end of `~/.xonshrc`
+- `eval \`starship init tcsh\`` : Add the following to the end of `~/.tcshrc`
+- `eval $(starship init ion)` : Add the following to the end of `~/.config/ion/initrc`
+
 
 ## Manjaro
 
