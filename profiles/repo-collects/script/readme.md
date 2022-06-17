@@ -28,10 +28,10 @@ repo_say ()
             say_para_profile ()
             {
                 echo  hub
-                echo  user
                 echo  repo
                 echo  avatar_url
                 echo  offical_url
+                echo  desc_oneline
             } &&
             
             
