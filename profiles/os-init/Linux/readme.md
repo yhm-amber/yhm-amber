@@ -5,8 +5,78 @@
 
 #### pkg
 
-~~~ sh
+list:
 
+~~~~
+mingw64/mingw-w64-x86_64-starship
+mingw64/mingw-w64-x86_64-aria2
+mingw64/mingw-w64-x86_64-dnscrypt-proxy
+mingw64/mingw-w64-x86_64-qbittorrent
+mingw64/mingw-w64-x86_64-pidgin
+mingw64/mingw-w64-x86_64-ffmpeg
+
+mingw64/mingw-w64-x86_64-zstd
+mingw64/mingw-w64-x86_64-xz
+mingw64/mingw-w64-x86_64-wget
+mingw64/mingw-w64-x86_64-emacs
+mingw64/mingw-w64-x86_64-tools-git
+mingw64/mingw-w64-x86_64-git-repo
+mingw64/mingw-w64-x86_64-luabind-git
+mingw64/mingw-w64-x86_64-jq
+
+mingw64/mingw-w64-x86_64-postgresql
+mingw64/mingw-w64-x86_64-toolchain
+mingw64/mingw-w64-x86_64-xpdf
+mingw64/mingw-w64-x86_64-wxsvg
+mingw64/mingw-w64-x86_64-openssl
+mingw64/mingw-w64-x86_64-libressl
+
+mingw64/mingw-w64-x86_64-luajit
+mingw64/mingw-w64-x86_64-rust
+mingw64/mingw-w64-x86_64-cargo-c
+mingw64/mingw-w64-x86_64-nim
+mingw64/mingw-w64-x86_64-lld
+mingw64/mingw-w64-x86_64-llvm
+mingw64/mingw-w64-x86_64-mlir
+mingw64/mingw-w64-x86_64-clang
+mingw64/mingw-w64-x86_64-flang
+mingw64/mingw-w64-x86_64-ghdl-llvm
+mingw64/mingw-w64-x86_64-openmp
+mingw64/mingw-w64-x86_64-polly
+clang64/mingw-w64-clang-x86_64-compiler-rt
+mingw64/mingw-w64-x86_64-perl
+mingw64/mingw-w64-x86_64-vala
+mingw64/mingw-w64-x86_64-julia
+mingw64/mingw-w64-x86_64-libgccjit
+mingw64/mingw-w64-x86_64-drmingw
+
+msys/findutils
+msys/neofetch
+msys/screenfetch
+msys/sshpass
+msys/nano
+~~~~
+
+~~~ sh
+: use for a good look may be
+eval "$(
+    
+    echo '
+        
+        pacman -S --needed
+        
+        --
+        
+        mingw64/mingw-w64-x86_64-luajit
+        msys/neofetch
+        mingw64/mingw-w64-x86_64-qbittorrent
+        mingw64/mingw-w64-x86_64-nim
+        mingw64/mingw-w64-x86_64-zstd
+        
+    ' | xargs -- echo )"
+
+: or just paste your needs manual
+pacman -S --needed -- mingw64/mingw-w64-x86_64-luajit msys/neofetch mingw64/mingw-w64-x86_64-qbittorrent mingw64/mingw-w64-x86_64-nim mingw64/mingw-w64-x86_64-zstd
 ~~~
 
 #### ops
