@@ -30,10 +30,28 @@
 #### pkg
 
 ~~~ sh
-
+pkg install -- starship neovim elixir luajit dropbear git
 ~~~
 
 #### ops
+
+`starship`
+
+~~~ sh
+echo $'\n''eval "$(starship init bash)"'$'\n' |
+    tee -a -- ~/.bashrc
+exec bash
+~~~
+
+`adi1090x/termux-style`
+
+~~~ sh
+git clone -- https://github.com/adi1090x/termux-style ~/.style/adi1090x/termux-style
+~/.style/adi1090x/termux-style/install.sh
+
+termux-style
+: C=89 F=20
+~~~
 
 ## openSUSE
 
