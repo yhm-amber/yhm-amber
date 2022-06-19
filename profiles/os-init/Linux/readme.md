@@ -38,9 +38,7 @@ pkg install -- starship neovim elixir luajit dropbear git
 `starship`
 
 ~~~ sh
-echo $'\n''eval "$(starship init bash)"'$'\n' |
-    tee -a -- ~/.bashrc
-exec bash
+echo $'\n''eval "$(starship init bash)"'$'\n' | tee -a -- ~/.bashrc && exec bash
 ~~~
 
 `adi1090x/termux-style`
