@@ -55,6 +55,7 @@ msys/neofetch
 msys/screenfetch
 msys/sshpass
 msys/nano
+msys/procps-ng
 ~~~~
 
 ~~~ sh
