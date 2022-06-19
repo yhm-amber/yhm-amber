@@ -100,7 +100,7 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 #### pkg
 
 ~~~ sh
-sudo dnf -y in -- dnf-plugins-core starship wget git rsync screen git net-tools sshpass bind-utils virt-install zsh jq
+sudo dnf -y in -- dnf-plugins-core dnf-automatic starship wget git rsync screen git net-tools sshpass bind-utils virt-install zsh jq
 sudo dnf -y in -- podman buildah
 sudo dnf -y in -- postgresql mariadb
 sudo dnf -y in -- luajit cargo rebar elixir
@@ -121,6 +121,9 @@ sudo dnf -y in -- npm gem golang
 - `eval \`starship init tcsh\`` : Add the following to the end of `~/.tcshrc`
 - `eval $(starship init ion)` : Add the following to the end of `~/.config/ion/initrc`
 
+[`dnf-automatic`]
+
+- 访问 `https://the-ip:9090/updates` 并根据 Web 界面的提示启用你需要的配置。
 
 ## Manjaro
 
