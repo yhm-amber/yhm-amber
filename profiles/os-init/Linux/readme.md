@@ -97,6 +97,10 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 
 #### req
 
+随便玩儿点儿无关紧要的就行。
+
+- 我发现这玩意儿更新都有 bug ，检测出来更新需要 [`k/kernel-modules-5.18.4-101.fc35.x86_64.rpm`](https://mirrors.tuna.tsinghua.edu.cn/fedora/updates/35/Everything/x86_64/Packages/k/kernel-modules-5.18.4-101.fc35.x86_64.rpm) ，结果人家源直接已经是 [`k/kernel-modules-5.18.5-100.fc35.x86_64.rpm`](https://mirrors.tuna.tsinghua.edu.cn/fedora/updates/35/Everything/x86_64/Packages/k/kernel-modules-5.18.5-100.fc35.x86_64.rpm) 了，也不知道为啥这个以为最新的包和实际最新的包的文件名会不一致。。。（虽然这次至少只是以为的最新的版本号有些落后。。。）
+
 #### pkg
 
 ~~~ sh
