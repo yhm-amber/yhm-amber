@@ -110,6 +110,16 @@ sudo dnf -y in -- npm gem golang
 
 #### ops
 
+[`cockpit`]
+
+- 在 Fedora 发行版，这个软件默认在最小安装也是已经被配置好了的，直接用就行了。
+- 访问途径是 `https://this-node-ip:9090` 。
+- 登录就是用你正常的 Linux 用户登录。
+
+[`dnf-automatic`]
+
+- 访问 `https://this-node-ip:9090/updates` ，并根据 Web 界面的提示启用你需要的配置。
+
 [`starship`](https://starship.rs/guide/#%F0%9F%9A%80-installation)
 
 - `eval "$(starship init bash)"` : Add the following to the end of `~/.bashrc`
@@ -121,9 +131,7 @@ sudo dnf -y in -- npm gem golang
 - `eval \`starship init tcsh\`` : Add the following to the end of `~/.tcshrc`
 - `eval $(starship init ion)` : Add the following to the end of `~/.config/ion/initrc`
 
-[`dnf-automatic`]
 
-- 访问 `https://the-ip:9090/updates` 并根据 Web 界面的提示启用你需要的配置。
 
 ## Manjaro
 
