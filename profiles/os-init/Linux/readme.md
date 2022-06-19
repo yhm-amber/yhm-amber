@@ -81,6 +81,12 @@ pacman -S --needed -- mingw64/mingw-w64-x86_64-luajit msys/neofetch mingw64/ming
 
 #### ops
 
+`starship`
+
+~~~ sh
+echo $'\n''eval "$(starship init bash)"'$'\n' | tee -a -- ~/.bashrc && exec bash
+~~~
+
 ## AlpineLinux
 
 ### x
