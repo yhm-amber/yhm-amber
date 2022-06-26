@@ -231,7 +231,7 @@ sudo dnf -y up
 sudo dnf -y in -- git wget rsync podman bind-utils net-tools sshpass dnf-plugins-core
 
 : needs for me
-sudo dnf -y in -- fish screen git sshpass
+sudo dnf -y in -- fish screen git sshpass zstd
 sudo dnf -y in -- dnf-plugins-core dnf-automatic
 sudo dnf -y in -- distrobox starship virt-install
 sudo dnf -y in -- podman buildah
