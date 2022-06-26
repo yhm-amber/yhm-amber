@@ -226,8 +226,14 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 
 ~~~~ sh
 sudo dnf -y up
-sudo dnf -y in -- git wget rsync podman bind-utils net-tools sshpass dnf-plugins-core  # these have installed in workstation
-sudo dnf -y in -- distrobox starship fish screen virt-install dnf-automatic
+
+: may be have installed
+sudo dnf -y in -- git wget rsync podman bind-utils net-tools sshpass dnf-plugins-core
+
+: needs for me
+sudo dnf -y in -- fish screen git sshpass
+sudo dnf -y in -- dnf-plugins-core dnf-automatic
+sudo dnf -y in -- distrobox starship virt-install
 sudo dnf -y in -- podman buildah
 sudo dnf -y in -- postgresql mariadb
 sudo dnf -y in -- luajit cargo rebar elixir
