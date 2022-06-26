@@ -220,6 +220,19 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 
 ## fedora
 
+### 36
+
+#### pkg
+
+~~~~ sh
+sudo dnf -y up
+sudo dnf -y in -- git wget rsync podman bind-utils net-tools sshpass dnf-plugins-core  # these have installed in workstation
+sudo dnf -y in -- distrobox starship fish screen virt-install dnf-automatic
+sudo dnf -y in -- podman buildah
+sudo dnf -y in -- postgresql mariadb
+sudo dnf -y in -- luajit cargo rebar elixir
+~~~~
+
 ### 35
 
 #### req
