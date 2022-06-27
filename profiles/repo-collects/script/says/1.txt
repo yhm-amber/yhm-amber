@@ -22,6 +22,9 @@ gh cisco/ChezScheme     ''     'https://cisco.github.io/ChezScheme https://cisco
 
 gh p4ddy1/gbemulator     ''     ''      'Gameboy Emulator in Rust'
 
+gh quickwit-oss/tantivy     'https://camo.githubusercontent.com/06301693e1134b7319f1c6f1e3f2f14a54a57d7fbe2a84576dcbf7edb3c16091/68747470733a2f2f74616e746976792d7365617263682e6769746875622e696f2f6c6f676f2f74616e746976792d6c6f676f2e706e67'     'https://quickwit.io'     'Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust'
+
+
 gh projecteru2/core     'https://avatars.githubusercontent.com/u/26270096'     'https://eru.sh'     'Eru, a simple, stateless, flexible, production-ready orchestrator designed to easily integrate into existing workflows. Can run any virtualization things in long or short time.'
 gh projecteru2/agent     'https://avatars.githubusercontent.com/u/26270096'     'https://eru.sh'     'Eru agent is a agent running on each node, provide monitoring and expose metrics. Support container and virtual machine.'
 gh projecteru2/cli     'https://avatars.githubusercontent.com/u/26270096'     'https://eru.sh'     'Eru cli is a cli to control everything on eru.'
