@@ -1,6 +1,8 @@
 
 gh ddasilva/scheme-droid     'https://play-lh.googleusercontent.com/xe354ArFMN6cXQBsx8an-LIrE8UmKYRSkqw6MbRij-mCLTYza892xImGygNmaX-8TO8'     'https://play.google.com/store/apps/details?id=net.meltingwax.schemedroid'     'An REPL-style Scheme interpreter for Android'
 
+gh eolinker/eoapi     'https://github.com/eolinker/eoapi/raw/main/wiki/images/logo.png'     'https://eoapi.io/'     'Eoapi 是一个可扩展的 API 开发工具。 Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API 。'
+
 gh termux/termux-app     'https://avatars.githubusercontent.com/u/8104776'     'https://f-droid.org/en/packages/com.termux'     'Termux - a terminal emulator application for Android OS extendible by variety of package'
 gh termux/termux-packages     ''     'https://termux.org'     'A build system and primary set of packages for Termux.'
 
