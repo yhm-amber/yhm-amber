@@ -15,3 +15,5 @@ gh webmachine/webmachine.wiki    'https://avatars.githubusercontent.com/u/126630
 
 gh kekeimiku/msrs     ''     ''     '写着玩的'
 
+gh poem-web/poem     'https://avatars.githubusercontent.com/u/88869778'     ''     'A full-featured and easy-to-use web framework with the Rust programming language.'
+
