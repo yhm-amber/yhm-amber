@@ -228,7 +228,7 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 sudo dnf -y up
 
 : may be have installed
-sudo dnf -y in -- git wget rsync podman bind-utils net-tools sshpass dnf-plugins-core
+sudo dnf -y in -- git wget rsync ffsend podman bind-utils net-tools sshpass dnf-plugins-core
 
 : needs for me
 sudo dnf -y in -- fish screen git sshpass zstd
@@ -250,7 +250,7 @@ sudo dnf -y in -- luajit cargo rebar elixir
 #### pkg
 
 ~~~ sh
-sudo dnf -y in -- dnf-plugins-core dnf-automatic starship wget git rsync screen git net-tools sshpass bind-utils virt-install zsh jq
+sudo dnf -y in -- ffsend dnf-plugins-core dnf-automatic starship wget git rsync screen git net-tools sshpass bind-utils virt-install zsh jq
 sudo dnf -y in -- podman buildah
 sudo dnf -y in -- postgresql mariadb
 sudo dnf -y in -- luajit cargo rebar elixir
