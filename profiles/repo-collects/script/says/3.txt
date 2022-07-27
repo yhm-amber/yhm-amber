@@ -25,6 +25,9 @@ gh tailscale/tailscale     'https://avatars.githubusercontent.com/u/48932923'   
 gh tailscale/tailscale-android     ''     'https://f-droid.org/packages/com.tailscale.ipn'     'Tailscale is a mesh VPN alternative that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports. Built on WireGuard®, Tailscale enables an incremental shift to zero-trust networking by implementing “always-on” remote access. This guarantees a consistent, portable, and secure experience independent of physical location.'
 gh juanfont/headscale     ''     ''     'An open source, self-hosted implementation of the Tailscale control server'
 
+gh vrana/adminer     ''     'https://adminer.org/'     'Database management in a single PHP file'
+
+
 gh Dreamacro/clash     'https://github.com/Dreamacro/clash/raw/master/docs/logo.png'     ''     'A rule-based tunnel in Go.'
 gh Kr328/ClashForAndroid      'https://github.com/Dreamacro/clash/raw/master/docs/logo.png'     ''     'A rule-based tunnel for Android.'
 
