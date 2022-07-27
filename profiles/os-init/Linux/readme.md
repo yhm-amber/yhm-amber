@@ -199,7 +199,7 @@ isos:
 dnf -y up
 dnf -y in -- cockpit wget git rsync screen git net-tools sshpass bind-utils virt-install
 dnf -y in -- postgresql mariadb
-dnf -y in -- luajit cargo rebar elixir
+dnf -y in -- luajit cargo rebar elixir php
 dnf -y in -- npm gem golang
 ~~~
 
@@ -235,8 +235,8 @@ sudo dnf -y in -- fish screen git sshpass zstd
 sudo dnf -y in -- dnf-plugins-core dnf-automatic
 sudo dnf -y in -- distrobox starship virt-install
 sudo dnf -y in -- podman buildah
-sudo dnf -y in -- postgresql mariadb
-sudo dnf -y in -- luajit cargo rebar elixir
+sudo dnf -y in -- postgresql mariadb php
+sudo dnf -y in -- luajit cargo rebar elixir php
 ~~~~
 
 ### 35
@@ -307,7 +307,7 @@ isos:
 
 ~~~ sh
 yum -y update
-yum -y install -- cockpit wget git rsync telnet net-tools screen sshpass bind-utils mariadb
+yum -y install -- cockpit php wget git rsync telnet net-tools screen sshpass bind-utils mariadb
 ~~~
 
 #### ops
