@@ -1,3 +1,4 @@
+gl timvisee/send     'https://send.vis.ee/icon.26e159f8.svg'    'https://send.vis.ee'    'Simple, private file sharing.'
 
 gh ddasilva/scheme-droid     'https://play-lh.googleusercontent.com/xe354ArFMN6cXQBsx8an-LIrE8UmKYRSkqw6MbRij-mCLTYza892xImGygNmaX-8TO8'     'https://play.google.com/store/apps/details?id=net.meltingwax.schemedroid'     'An REPL-style Scheme interpreter for Android'
 
