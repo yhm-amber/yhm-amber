@@ -137,7 +137,7 @@ termux-style
 ##### base
 
 ~~~ sh
-zypper in -y -- rsync cargo xrdp tigervnc screen libvirt qemu-kvm firecracker neovim htop screenfetch neofetch suse-module-tools guestfs-tools
+zypper in -y -- rsync cargo php xrdp tigervnc screen libvirt qemu-kvm firecracker neovim htop screenfetch neofetch suse-module-tools guestfs-tools
 zypper in -t pattern -y -- kvm_tools xen_tools
 zypper in -y -- snapper-zypp-plugin yast2-snapper
 ~~~
@@ -151,7 +151,7 @@ zypper in -y -- nano git emacs git-daemon git-web luajit erlang
 lang
 
 ~~~ sh
-zypper in -- luajit erlang rust cargo elixir java clang llvm
+zypper in -- luajit erlang rust cargo elixir java clang llvm php
 zypper in -- gcc go
 ~~~
 
@@ -228,7 +228,7 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 sudo dnf -y up
 
 : may be have installed
-sudo dnf -y in -- git wget rsync ffsend podman bind-utils net-tools sshpass dnf-plugins-core
+sudo dnf -y in -- git wget rsync ffsend php podman bind-utils net-tools sshpass dnf-plugins-core
 
 : needs for me
 sudo dnf -y in -- fish screen git sshpass zstd
