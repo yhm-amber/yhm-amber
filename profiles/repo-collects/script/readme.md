@@ -7,6 +7,8 @@ texts :
 
 sh :
 
+（更新：唯一标识符为 repo(/ to .).github/gitlab/jihulab/gitee/...）
+
 ~~~ sh
 repo_say ()
 {
