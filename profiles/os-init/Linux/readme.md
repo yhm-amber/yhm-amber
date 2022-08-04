@@ -197,7 +197,7 @@ isos:
 
 ~~~ sh
 dnf -y up
-dnf -y in -- cockpit wget git rsync screen git net-tools sshpass bind-utils virt-install
+dnf -y in -- cockpit wget git rsync screen git net-tools nss-tools sshpass bind-utils virt-install
 dnf -y in -- postgresql mariadb
 dnf -y in -- luajit cargo rebar elixir php
 dnf -y in -- npm gem golang
@@ -228,10 +228,10 @@ firewall-cmd --add-service cockpit --permanent && systemctl reload firewalld
 sudo dnf -y up
 
 : may be have installed
-sudo dnf -y in -- git wget rsync ffsend php podman bind-utils net-tools sshpass dnf-plugins-core
+sudo dnf -y in -- git wget rsync ffsend php podman bind-utils net-tools nss-tools sshpass dnf-plugins-core
 
 : needs for me
-sudo dnf -y in -- fish screen git sshpass zstd
+sudo dnf -y in -- fish screen git sshpass zstd bind-utils net-tools nss-tools
 sudo dnf -y in -- dnf-plugins-core dnf-automatic
 sudo dnf -y in -- distrobox starship virt-install
 sudo dnf -y in -- podman buildah
@@ -307,7 +307,7 @@ isos:
 
 ~~~ sh
 yum -y update
-yum -y install -- cockpit php wget git rsync telnet net-tools screen sshpass bind-utils mariadb
+yum -y install -- cockpit php wget git rsync telnet net-tools nss-tools screen sshpass bind-utils mariadb
 ~~~
 
 #### ops
