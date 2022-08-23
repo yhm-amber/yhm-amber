@@ -42,7 +42,7 @@ git.zx2c4.com wireguard-tools     'https://www.wireguard.com/img/wireguard.svg' 
 git.zx2c4.com wireguard-linux-compat     'https://www.wireguard.com/img/wireguard.svg'     'https://wireguard.com'     'WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances. Initially released for the Linux kernel, it is now cross-platform (Windows, macOS, BSD, iOS, Android) and widely deployable. It is currently under heavy development, but already it might be regarded as the most secure, easiest to use, and simplest VPN solution in the industry.'
 
 
-gh oasisfeng/island      ''     'https://island.oasisfeng.com/'     ''
+gh oasisfeng/island      'http://image.coolapk.com/apk_logo/2016/0513/97100_1463131985_5913.png'     'https://island.oasisfeng.com/'     '岛 Island 是绿色守护作者的新科技，简单点说就是多开，但原理和目前已有的工具都不太一样。【风险告知：此应用尚在测试期，仅供高级用户使用，勿以目前表现评分。作者不为因使用该应用造成的任何不良后果负责，也不会回答相关问题】 @梨子 -- https://www.coolapk.com/apk/com.oasisfeng.island'
 
 gh coollabsio/coolify     'https://avatars.githubusercontent.com/u/60715044'     'https://coolify.io/'     'An open-source & self-hostable Heroku / Netlify alternative.'
 
