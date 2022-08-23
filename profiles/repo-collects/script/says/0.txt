@@ -3,13 +3,23 @@ gh stolen/pipeline    ''   ''     'Erlang pipeline parse_transform allowing to a
 gh stolen/edflow    ''   ''    'Erlang Dataflow programming framework'
 gh choptastic/pipeline    ''   ''     '(forked from stolen/pipeline) Erlang pipeline parse_transform allowing to apply list of functions'
 
-
-gh purocean/yn    ''   'https://yank-note.vercel.app/'     'A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.'
-
+gh erlang/otp     'https://www.erlang.org/assets/img/erlang-logo.svg'     'https://erlang.org'     'Erlang/OTP'
+gh erlang/rebar3     'https://www.rebar3.org/images/logo.svg'     'https://rebar3.org'     'Erlang build tool that makes it easy to compile and test Erlang applications and releases.'
+gh erlang/eep     ''     'https://erlang.org/erlang-enhancement-proposals'     'Erlang Enhancement Proposals'
+gh erlang/docker-erlang-example     'https://www.erlang.org/assets/img/erlang-logo.svg'     ''     'HowTo Erlang in Docker'
+gh erlang/docker-erlang-otp     'https://www.erlang.org/assets/img/erlang-logo.svg'     'https://hub.docker.com/_/erlang'     'the Official Erlang OTP image on Docker Hub'
+gh erlang/erlang-org     'https://www.erlang.org/assets/img/erlang-logo.svg'     'https://erlang.org'     'The erlang.org website'
+gh erlang/corba     ''     ''     'The Corba and Cos* applications from OTP'
+gh erlang/egd     ''     ''     'Erlang Graphical Drawer is an interface for 2d-image rendering and is used by Percept to generate dynamic graphs to its web pages. All code is pure erlang, no drivers needed.'
+gh erlang/rebar3_otp_install_plugin     ''     ''     'A rebar3 plugin for installing OTP applications'
+gh erlang/rebar3_otpdoc_plugin     ''     ''     'A rebar3 plugin for building OTP documentation'
+gh erlang/percept     ''     ''     ''
 
 
 gh webmachine/webmachine    'https://avatars.githubusercontent.com/u/12663056'   'https://github.com/webmachine/webmachine/wiki/'     'A REST-based system for building web applications.'
 gh webmachine/webmachine.wiki    'https://avatars.githubusercontent.com/u/12663056'   ''     'webmachine wiki on github'
+
+gh purocean/yn    ''   'https://yank-note.vercel.app/'     'A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.'
 
 
 
