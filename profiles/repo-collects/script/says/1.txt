@@ -53,13 +53,7 @@ git.zx2c4.com wireguard-tools     'https://www.wireguard.com/img/wireguard.svg' 
 git.zx2c4.com wireguard-linux-compat     'https://www.wireguard.com/img/wireguard.svg'     'https://wireguard.com'     'WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances. Initially released for the Linux kernel, it is now cross-platform (Windows, macOS, BSD, iOS, Android) and widely deployable. It is currently under heavy development, but already it might be regarded as the most secure, easiest to use, and simplest VPN solution in the industry.'
 
 
-git.postgresql.org/git postgresql     'https://avatars.githubusercontent.com/u/177543 https://www.postgresql.org/media/img/about/press/elephant.png'     'https://www.postgresql.org'     'PostgreSQL: The World's Most Advanced Open Source Relational Database'
-
-gh citusdata/citus     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Distributed PostgreSQL as an extension'
-gh citusdata/citus_docs     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Documentation for Citus. Distributed PostgreSQL as an extension.'
-gh citusdata/citus-benchmark     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Tools for running benchmarks against Citus'
-gh citusdata/pg_cron     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Run periodic jobs in PostgreSQL'
-gh citusdata/pg_auto_failover     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Postgres extension and service for automated failover and high-availability'
+gh oasisfeng/island      ''     'https://island.oasisfeng.com/'     ''
 
 gh coollabsio/coolify     'https://avatars.githubusercontent.com/u/60715044'     'https://coolify.io/'     'An open-source & self-hostable Heroku / Netlify alternative.'
 
