@@ -1,3 +1,14 @@
+
+
+git.postgresql.org/git postgresql     'https://avatars.githubusercontent.com/u/177543 https://www.postgresql.org/media/img/about/press/elephant.png'     'https://www.postgresql.org'     'PostgreSQL: The World's Most Advanced Open Source Relational Database'
+
+gh citusdata/citus     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Distributed PostgreSQL as an extension'
+gh citusdata/citus_docs     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Documentation for Citus. Distributed PostgreSQL as an extension.'
+gh citusdata/citus-benchmark     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Tools for running benchmarks against Citus'
+gh citusdata/pg_cron     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Run periodic jobs in PostgreSQL'
+gh citusdata/pg_auto_failover     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Postgres extension and service for automated failover and high-availability'
+
+
 gh pola-rs/polars     'https://avatars.githubusercontent.com/u/83768144'     'https://pola.rs/'     'Fast multi-threaded DataFrame library in Rust | Python | Node.js'
 gh douchuan/algorithm     ''     ''     'Algorithms written in Rust'
 
