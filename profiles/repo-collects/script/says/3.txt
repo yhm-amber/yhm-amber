@@ -3,6 +3,7 @@ gh timvisee/ffsend     ''     ''     '📬 Easily and securely share files from 
 
 gh ddasilva/scheme-droid     'https://play-lh.googleusercontent.com/xe354ArFMN6cXQBsx8an-LIrE8UmKYRSkqw6MbRij-mCLTYza892xImGygNmaX-8TO8'     'https://play.google.com/store/apps/details?id=net.meltingwax.schemedroid'     'An REPL-style Scheme interpreter for Android'
 
+gh 0xTiger/vortex     ''     'https://tom.cv/vortex/'     '一个类似元胞自动机的 Demo，可以产生波形模式。'
 gh Kl4rry/simp     ''     'https://simp.axelkappel.se/'     '尽可能用上 GPU 加速的图像处理工具'
 
 
