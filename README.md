@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 [![head](https://avatars.githubusercontent.com/u/103625580)](https://avatars.githubusercontent.com/u/103625580)
 
 ~~~
-僭越之人，
-你的旅途已经到达终点。
-但你仍未跨越最后的门扉；
+僭越之人呐。
+
+你的旅途已经到达终点，
+但你仍未跨越最后的门扉。
 
 如果你明白旅途的意义，
-就上前来、击败我、命令我让路，
+就上前来、击败我、命令我让路。
 
 向我证明，
-你比我更适合拯救她；
+你比我更适合拯救她。
 
 然后，
 再去纺织新的命运罢。
