@@ -35,6 +35,7 @@ Waterfox.Waterfox
 bitbeans.SimpleDNSCrypt
 OnionShare.OnionShare
 tailscale.tailscale
+WireGuard.WireGuard
 ~~~
 
 #### data
