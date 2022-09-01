@@ -1,4 +1,96 @@
 
+## winget
+
+### demo
+
+ref: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/install
+
+~~~ powershell
+winget install --id Git.Git -i
+~~~
+
+or
+
+~~~ powershell
+winget install -q huorong -i
+~~~
+
+### list
+
+#### envk
+
+可作为其它工具的管理底座
+
+~~~
+BraveSoftware.BraveBrowser
+msys2.msys2
+Waterfox.Waterfox
+~~~
+
+#### neti
+
+网络
+
+~~~
+bitbeans.SimpleDNSCrypt
+tailscale.tailscale
+~~~
+
+#### data
+
+数据的归档与使用
+
+~~~
+7zip.7zip
+Bandisoft.Bandizip
+Bandisoft.Honeyview
+Daum.PotPlayer XP8BSBGQW2DKS0
+RARLab.WinRAR
+VideoLAN.VLC XPDM1ZW6815MQM
+~~~
+
+#### cybr
+
+控制
+
+~~~
+CPUID.CPU-Z
+Ditto.Ditto 9NBLGGH3ZBJQ
+File-New-Project.EarTrumpet 9NBLGGH516XP
+"Huorong Internet Security" XPDDXVFRXCXK80
+Microsoft.PowerToys
+"Microsoft Edge Browser" XPFFTQ037JWMHS
+Mozilla.Firefox
+qBittorrent.qBittorrent
+RustDesk.RustDesk
+Starship.Starship
+TimKosse.FileZilla.Client
+TimKosse.FileZilla.Server
+voidtools.Everything 9WZDNCRDKD2B
+~~~
+
+#### lang
+
+语言
+
+~~~
+Erlang.ErlangOTP
+Racket.Racket
+Rustlang.Rustup
+Scala.Scala.2
+~~~
+
+#### code
+
+代码的编辑及其管理
+
+~~~
+Git.Git
+KDE.Kate 9NWMW7BB59HW
+Microsoft.VisualStudioCode
+~~~
+
+
 ## Msys2
 
 ### latest
