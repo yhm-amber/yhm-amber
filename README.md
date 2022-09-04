@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-😃😃😄
-
-[![head](https://avatars.githubusercontent.com/u/103625580)](https://avatars.githubusercontent.com/u/103625580)
+🛶
 
 ~~~
 僭越之人呐。
