@@ -1,6 +1,10 @@
 
 gh tikv/tikv     'https://tikv.org/img/logos/horizontal/color/tikv-horizontal-color.png'     'https://tikv.org/'     'Distributed transactional key-value database, originally created to complement TiDB  /  分布式事务键值数据库，最初是为了补充 TiDB 而创建的'
 
+gh pingcap/tidb     ''     'https://docs.pingcap.com/zh/'     'TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial'
+gh pingcap/tidb-operator     ''     'https://docs.pingcap.com/tidb-in-kubernetes/'     'TiDB operator creates and manages TiDB clusters running in Kubernetes.'
+
+
 git.postgresql.org/git postgresql     'https://avatars.githubusercontent.com/u/177543 https://www.postgresql.org/media/img/about/press/elephant.png'     'https://www.postgresql.org'     'PostgreSQL: The World's Most Advanced Open Source Relational Database'
 
 gh citusdata/citus     'https://avatars.githubusercontent.com/u/2545424'     'https://www.citusdata.com'     'Distributed PostgreSQL as an extension'
