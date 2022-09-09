@@ -102,6 +102,8 @@ Microsoft.VisualStudioCode
 list:
 
 ~~~~
+mingw64/mingw-w64-x86_64-tbb
+
 mingw64/mingw-w64-x86_64-starship
 mingw64/mingw-w64-x86_64-aria2
 mingw64/mingw-w64-x86_64-dnscrypt-proxy
