@@ -208,6 +208,13 @@ pkg install -- starship neovim elixir luajit dropbear git
 
 #### ops
 
+`termux-change-repo`
+
+~~~ sh
+termux-change-repo
+# and choose your mirror e.g. ustc .
+~~~
+
 `starship`
 
 ~~~ sh
