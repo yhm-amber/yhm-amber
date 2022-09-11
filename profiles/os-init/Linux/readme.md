@@ -203,7 +203,7 @@ echo $'\n''eval "$(starship init bash)"'$'\n' | tee -a -- ~/.bashrc && exec bash
 #### pkg
 
 ~~~ sh
-pkg install -- screen starship neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit 
+pkg install -- screen starship neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit aha bk
 ~~~
 
 #### ops
