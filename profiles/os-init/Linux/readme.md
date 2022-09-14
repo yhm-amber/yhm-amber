@@ -33,8 +33,6 @@ Waterfox.Waterfox
 
 ~~~
 bitbeans.SimpleDNSCrypt
-OnionShare.OnionShare
-tailscale.tailscale
 WireGuard.WireGuard
 ~~~
 
@@ -56,6 +54,8 @@ VideoLAN.VLC XPDM1ZW6815MQM
 分享
 
 ~~~
+OnionShare.OnionShare
+tailscale.tailscale
 TimVisee.ffsend
 qBittorrent.qBittorrent
 RustDesk.RustDesk
