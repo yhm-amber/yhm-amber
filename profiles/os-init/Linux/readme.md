@@ -96,6 +96,7 @@ Scala.Scala.2
 
 ~~~
 Git.Git
+Neovim.Neovim
 KDE.Kate 9NWMW7BB59HW
 Microsoft.VisualStudioCode
 ~~~
