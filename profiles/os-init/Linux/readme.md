@@ -51,6 +51,18 @@ RARLab.WinRAR
 VideoLAN.VLC XPDM1ZW6815MQM
 ~~~
 
+#### shar
+
+分享
+
+~~~
+TimVisee.ffsend
+qBittorrent.qBittorrent
+RustDesk.RustDesk
+TimKosse.FileZilla.Client
+TimKosse.FileZilla.Server
+~~~
+
 #### cybr
 
 控制
@@ -63,11 +75,7 @@ File-New-Project.EarTrumpet 9NBLGGH516XP
 Microsoft.PowerToys
 "Microsoft Edge Browser" XPFFTQ037JWMHS
 Mozilla.Firefox
-qBittorrent.qBittorrent
-RustDesk.RustDesk
 Starship.Starship
-TimKosse.FileZilla.Client
-TimKosse.FileZilla.Server
 voidtools.Everything 9WZDNCRDKD2B
 ~~~
 
