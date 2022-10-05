@@ -47,6 +47,7 @@ Bandisoft.Honeyview
 Daum.PotPlayer XP8BSBGQW2DKS0
 RARLab.WinRAR
 VideoLAN.VLC XPDM1ZW6815MQM
+MKVToolNix.MKVToolNix
 ~~~
 
 #### shar
@@ -112,6 +113,7 @@ list:
 
 ~~~~
 mingw64/mingw-w64-x86_64-tbb
+mingw64/mingw-w64-x86_64-cmark
 
 mingw64/mingw-w64-x86_64-starship
 mingw64/mingw-w64-x86_64-aria2
@@ -124,6 +126,10 @@ mingw64/mingw-w64-x86_64-zstd
 mingw64/mingw-w64-x86_64-xz
 mingw64/mingw-w64-x86_64-wget
 mingw64/mingw-w64-x86_64-emacs
+
+mingw64/mingw-w64-x86_64-mkvtoolnix-cli
+mingw64/mingw-w64-x86_64-mkvtoolnix-gui
+
 mingw64/mingw-w64-x86_64-tools-git
 mingw64/mingw-w64-x86_64-git-repo
 mingw64/mingw-w64-x86_64-luabind-git
