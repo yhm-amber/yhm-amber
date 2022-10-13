@@ -64,10 +64,14 @@ MKVToolNix.MKVToolNix
 OnionShare.OnionShare
 tailscale.tailscale
 TimVisee.ffsend
+OpenWhisperSystems.Signal
+Pidgin.Pidgin
 qBittorrent.qBittorrent
 RustDesk.RustDesk
 TimKosse.FileZilla.Client
 TimKosse.FileZilla.Server
+
+SoftDeluxe.FreeDownloadManager
 ~~~
 
 #### cybr
@@ -75,15 +79,22 @@ TimKosse.FileZilla.Server
 控制
 
 ~~~
+Flameshot.Flameshot
+Starship.Starship
+Sandboxie.Classic
 CPUID.CPU-Z
+CrystalDewWorld.CrystalDiskInfo
 Ditto.Ditto 9NBLGGH3ZBJQ
 File-New-Project.EarTrumpet 9NBLGGH516XP
 "Huorong Internet Security" XPDDXVFRXCXK80
 Microsoft.PowerToys
 "Microsoft Edge Browser" XPFFTQ037JWMHS
 Mozilla.Firefox
-Starship.Starship
 voidtools.Everything 9WZDNCRDKD2B
+rammichael.Textify
+
+VMware.WorkstationPro
+clouDr-f2e.rubick
 ~~~
 
 #### lang
@@ -94,7 +105,9 @@ voidtools.Everything 9WZDNCRDKD2B
 Erlang.ErlangOTP
 Racket.Racket
 Rustlang.Rustup
+Microsoft.PowerShell
 Scala.Scala.2
+JohnMacFarlane.Pandoc
 ~~~
 
 #### code
@@ -102,10 +115,28 @@ Scala.Scala.2
 代码的编辑及其管理
 
 ~~~
+purocean.YankNote
 Git.Git
 Neovim.Neovim
 KDE.Kate 9NWMW7BB59HW
 Microsoft.VisualStudioCode
+
+TheDocumentFoundation.LibreOffice
+Mirantis.Lens
+Zettlr.Zettlr
+Microsoft.VisualStudio.2019.Community
+~~~
+
+#### MSV
+
+微软开发组件与运行时
+
+~~~
+Microsoft.VCRedist.2015+.x86
+Microsoft.VCRedist.2013.x86
+Microsoft.DotNet.SDK.3_1
+Microsoft.VCRedist.2015+.x64
+Microsoft.VCRedist.2013.x64
 ~~~
 
 
