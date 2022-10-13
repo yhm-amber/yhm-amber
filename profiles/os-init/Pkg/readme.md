@@ -70,6 +70,7 @@ qBittorrent.qBittorrent
 RustDesk.RustDesk
 TimKosse.FileZilla.Client
 TimKosse.FileZilla.Server
+Keybase.Keybase
 
 SoftDeluxe.FreeDownloadManager
 ~~~
