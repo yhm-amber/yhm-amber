@@ -15,6 +15,12 @@ or
 winget install -q huorong -i
 ~~~
 
+up all
+
+~~~ powershell
+winget upgrade --all
+~~~
+
 ### list
 
 #### envk
