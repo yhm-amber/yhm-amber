@@ -218,7 +218,7 @@ echo $'\n''eval "$(starship init bash)"'$'\n' | tee -a -- ~/.bashrc && exec bash
 #### pkg
 
 ~~~ sh
-pkg install -- screen starship ffsend neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit aha bk
+pkg install -- screen starship ffsend croc neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit aha bk
 ~~~
 
 #### ops
@@ -349,7 +349,7 @@ sudo dnf -y up
 sudo dnf -y in -- git wget rsync ffsend php podman bind-utils net-tools nss-tools sshpass dnf-plugins-core
 
 : needs for me
-sudo dnf -y in -- fish screen git sshpass zstd bind-utils net-tools nss-tools
+sudo dnf -y in -- croc fish screen git sshpass zstd bind-utils net-tools nss-tools
 sudo dnf -y in -- dnf-plugins-core dnf-automatic
 sudo dnf -y in -- distrobox starship virt-install
 sudo dnf -y in -- podman buildah
