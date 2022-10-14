@@ -21,6 +21,12 @@ up all
 winget upgrade --all
 ~~~
 
+uninstall
+
+~~~ powershell
+winget uninstall --id Microsoft.OneDrive --source winget
+~~~
+
 ### list
 
 #### envk
@@ -29,6 +35,8 @@ winget upgrade --all
 
 ~~~
 BraveSoftware.BraveBrowser
+Brave.Brave
+Brave.Brave.Nightly
 msys2.msys2
 Waterfox.Waterfox
 ~~~
@@ -54,6 +62,13 @@ Daum.PotPlayer XP8BSBGQW2DKS0
 RARLab.WinRAR
 VideoLAN.VLC XPDM1ZW6815MQM
 MKVToolNix.MKVToolNix
+notable.notable
+
+AdobeSystemsIncorporated.AdobeReader_ynb6jyjzte8ga
+DBeaverCorp.DBeaverCE_1b7tdvn0p0f9y
+TheDocumentFoundation.LibreOffice
+Mirantis.Lens
+gtamas.etcdmanager
 ~~~
 
 #### shar
@@ -61,17 +76,18 @@ MKVToolNix.MKVToolNix
 分享
 
 ~~~
-OnionShare.OnionShare
-tailscale.tailscale
 TimVisee.ffsend
+tailscale.tailscale
 OpenWhisperSystems.Signal
 Pidgin.Pidgin
+OnionShare.OnionShare
 qBittorrent.qBittorrent
 RustDesk.RustDesk
 TimKosse.FileZilla.Client
 TimKosse.FileZilla.Server
 Keybase.Keybase
 
+IVPN.IVPN
 SoftDeluxe.FreeDownloadManager
 ~~~
 
@@ -81,6 +97,7 @@ SoftDeluxe.FreeDownloadManager
 
 ~~~
 Flameshot.Flameshot
+21090PaddyXu.QuickLook_egxr34yet59cg
 Starship.Starship
 Sandboxie.Classic
 CPUID.CPU-Z
@@ -89,7 +106,8 @@ Ditto.Ditto 9NBLGGH3ZBJQ
 File-New-Project.EarTrumpet 9NBLGGH516XP
 "Huorong Internet Security" XPDDXVFRXCXK80
 Microsoft.PowerToys
-"Microsoft Edge Browser" XPFFTQ037JWMHS
+Microsoft.Edge
+Microsoft.EdgeWebView2Runtime
 Mozilla.Firefox
 voidtools.Everything 9WZDNCRDKD2B
 rammichael.Textify
@@ -107,6 +125,8 @@ Erlang.ErlangOTP
 Racket.Racket
 Rustlang.Rustup
 Microsoft.PowerShell
+Microsoft.PowerShell.Preview
+Diffinity
 Scala.Scala.2
 JohnMacFarlane.Pandoc
 ~~~
@@ -116,14 +136,14 @@ JohnMacFarlane.Pandoc
 代码的编辑及其管理
 
 ~~~
+Microsoft.WindowsTerminal
 purocean.YankNote
 Git.Git
 Neovim.Neovim
 KDE.Kate 9NWMW7BB59HW
 Microsoft.VisualStudioCode
 
-TheDocumentFoundation.LibreOffice
-Mirantis.Lens
+SublimeHQ.SublimeText.3
 Zettlr.Zettlr
 Microsoft.VisualStudio.2019.Community
 ~~~
@@ -138,8 +158,17 @@ Microsoft.VCRedist.2013.x86
 Microsoft.DotNet.SDK.3_1
 Microsoft.VCRedist.2015+.x64
 Microsoft.VCRedist.2013.x64
+Microsoft.AzureStorageEmulator
 ~~~
 
+#### WSL
+
+WSL
+
+~~~
+kalilinux.kalilinux
+Debian.Debian
+~~~
 
 ## Msys2
 
