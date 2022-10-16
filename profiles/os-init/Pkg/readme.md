@@ -63,6 +63,8 @@ RARLab.WinRAR
 VideoLAN.VLC XPDM1ZW6815MQM
 MKVToolNix.MKVToolNix
 notable.notable
+FreeCAD.FreeCAD
+LibreCAD.LibreCAD
 
 AdobeSystemsIncorporated.AdobeReader_ynb6jyjzte8ga
 DBeaverCorp.DBeaverCE_1b7tdvn0p0f9y
