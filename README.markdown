@@ -13,4 +13,4 @@
 这样一来，千百种病的因也就一并都被铲除了。
 ~~~
 
-[`GH`](https://www.githubstatus.com/)
+[`GH.st`](https://githubstatus.com/)
