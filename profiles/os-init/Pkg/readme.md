@@ -125,6 +125,7 @@ clouDr-f2e.rubick
 ~~~
 Erlang.ErlangOTP
 Racket.Racket
+Nushell.Nushell
 Rustlang.Rustup
 Microsoft.PowerShell
 Microsoft.PowerShell.Preview
