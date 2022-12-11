@@ -1,4 +1,8 @@
 
+# ignore = []
+
+
+
 blank_lines_upper_bound = 7
 brace_style = "AlwaysNextLine"
 
@@ -9,5 +13,43 @@ enum_discrim_align_threshold = 0
 
 fn_args_layout = "Tall"
 fn_single_line = true # #3358
+
+force_multiline_blocks = false
+format_code_in_doc_comments = true
+format_strings = true
+
+hard_tabs = true
+imports_indent = "Block"
+imports_layout = "HorizontalVertical"
+
+indent_style = "Visual"
+
+inline_attribute_width = 3
+
+match_arm_blocks  = false
+match_block_trailing_comma = true
+match_arm_leading_pipes = Preserve
+
+merge_derives = false
+imports_granularity = Preserve
+merge_imports = false
+
+newline_style = "Unix"
+
+normalize_comments = false
+normalize_doc_attributes = false
+
+overflow_delimited_expr = true
+
+
+remove_nested_parens = true
+
+reorder_impl_items = true
+reorder_imports = false
+
+group_imports = StdExternalCrate
+
+struct_lit_single_line = true
+tab_spaces = 4
 
 wrap_comments = true
