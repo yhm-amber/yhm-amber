@@ -2,6 +2,6 @@
 blank_lines_upper_bound = 7
 brace_style = "AlwaysNextLine"
 
-
+disable_all_formatting = true
 
 wrap_comments = true
