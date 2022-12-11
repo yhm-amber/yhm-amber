@@ -1,0 +1,7 @@
+
+blank_lines_upper_bound = 7
+brace_style = "AlwaysNextLine"
+
+
+
+wrap_comments = true
