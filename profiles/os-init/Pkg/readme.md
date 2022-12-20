@@ -1,4 +1,41 @@
 
+## Termux
+
+### latest
+
+#### pkg
+
+~~~ sh
+pkg install -- dust nushell screen starship ffsend croc neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit aha bk
+~~~
+
+#### ops
+
+`termux-change-repo`
+
+~~~ sh
+termux-change-repo
+# and choose your mirror e.g. ustc .
+~~~
+
+`starship`
+
+~~~ sh
+echo $'\n''eval "$(starship init bash)"'$'\n' | tee -a -- ~/.bashrc && exec bash
+~~~
+
+`adi1090x/termux-style`
+
+~~~ sh
+git clone -- https://github.com/adi1090x/termux-style ~/.style/adi1090x/termux-style
+~/.style/adi1090x/termux-style/install.sh
+
+termux-style
+: C=89 F=20
+~~~
+
+
+
 ## winget
 
 ### demo
@@ -280,41 +317,6 @@ echo $'\n''eval "$(starship init bash)"'$'\n' | tee -a -- ~/.bashrc && exec bash
 ~~~
 
 #### ops
-
-## Termux
-
-### latest
-
-#### pkg
-
-~~~ sh
-pkg install -- screen starship ffsend croc neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit aha bk
-~~~
-
-#### ops
-
-`termux-change-repo`
-
-~~~ sh
-termux-change-repo
-# and choose your mirror e.g. ustc .
-~~~
-
-`starship`
-
-~~~ sh
-echo $'\n''eval "$(starship init bash)"'$'\n' | tee -a -- ~/.bashrc && exec bash
-~~~
-
-`adi1090x/termux-style`
-
-~~~ sh
-git clone -- https://github.com/adi1090x/termux-style ~/.style/adi1090x/termux-style
-~/.style/adi1090x/termux-style/install.sh
-
-termux-style
-: C=89 F=20
-~~~
 
 ## openSUSE
 
