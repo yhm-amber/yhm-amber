@@ -1,12 +1,13 @@
 
 # ignore = []
+disable_all_formatting = true
 
 
 
 blank_lines_upper_bound = 7
 brace_style = "AlwaysNextLine"
 
-disable_all_formatting = true
+
 
 empty_item_single_line = true
 enum_discrim_align_threshold = 0
