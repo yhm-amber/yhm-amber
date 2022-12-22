@@ -2,4 +2,4 @@ y { {dup cons} exch concat dup cons i }. /fac { { {pop zero?} {pop succ} {{dup p
 
 ;; (yhm ycombinator yhm ycombinator. yhm ycombinator yhm ycombinator. yhm ycombinator yhm ycombinator. yhm ycombinator yhm ycombinator. , yhm ycombinator yhm ycombinator. yhm ycombinator yhm ycombinator. yhm ycombinator yhm ycombinator. yhm yc , ..)
 
-disroot org scheme ismism openmoji emojipedia tokio lunatic iepl iplc caesium app squoosh mpls elixir lambda racket dust nu zellij rust tauri iced zzhack wasi connectorx svelte postscript coffee supercollider ela zellij combinator y z s kk cargo self egui
+disroot org scheme ismism openmoji emojipedia tokio lunatic iepl iplc caesium app squoosh mpls elixir lambda racket dust nu zellij rust tauri iced zzhack wasi connectorx svelte postscript coffee supercollider zellij atuin combinator y s kk cargo self egui
