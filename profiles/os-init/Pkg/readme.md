@@ -6,7 +6,7 @@
 #### pkg
 
 ~~~ sh
-pkg install -- dust nushell screen starship ffsend croc neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit aha bk
+pkg install -- dust zellij nushell screen starship ffsend croc neovim micro elixir luajit dropbear git ttyd nyancat neofetch screenfetch less lf lazygit aha bk
 ~~~
 
 #### ops
