@@ -43,7 +43,7 @@ termux-style
 ref: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/install
 
 ~~~ powershell
-winget install --id Git.Git -i
+winget install --exact --id Git.Git -i
 ~~~
 
 or
@@ -107,6 +107,7 @@ AdobeSystemsIncorporated.AdobeReader_ynb6jyjzte8ga
 DBeaverCorp.DBeaverCE_1b7tdvn0p0f9y
 TheDocumentFoundation.LibreOffice
 Mirantis.Lens
+RedHat.Podman-Desktop
 gtamas.etcdmanager
 ~~~
 
