@@ -43,7 +43,22 @@ gallery:
 [simple-gallery]: https://f-droid.org/zh_Hans/packages/com.simplemobiletools.gallery.pro
 [simple-gallery-repo]: https://github.com/SimpleMobileTools/Simple-Gallery.git
 
-- [`com.simplemobiletools.gallery.pro`][simple-gallery] [`src`][simple-gallery-repo]
+- Simple Gallery
+  
+  - pkg: [`com.simplemobiletools.gallery.pro`][simple-gallery]
+  - src: [`SimpleMobileTools/Simple-Gallery`][simple-gallery-repo]
+  
+
+[...]: ...
+
+- ...
+  
+  - pkg: [`...`][...]
+  - src: [`...`][...]
+  
+
+[f-droid]: https://f-droid.org
+
 
 ## winget
 
