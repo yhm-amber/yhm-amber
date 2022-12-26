@@ -34,7 +34,16 @@ termux-style
 : C=89 F=20
 ~~~
 
+## Android
 
+### pkg
+
+gallery:
+
+[simple-gallery]: https://f-droid.org/zh_Hans/packages/com.simplemobiletools.gallery.pro
+[simple-gallery-repo]: https://github.com/SimpleMobileTools/Simple-Gallery.git
+
+- [`com.simplemobiletools.gallery.pro`][simple-gallery] [`src`][simple-gallery-repo]
 
 ## winget
 
