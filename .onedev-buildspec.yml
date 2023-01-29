@@ -17,3 +17,21 @@ jobs:
   maxRetries: 3
   retryDelay: 30
   timeout: 3600
+- name: puller
+  steps:
+  - !PullRepository
+    name: from yhm-amber/yhm-amber
+    remoteUrl: https://github.com/yhm-amber/yhm-amber.git
+    syncToChildProject: false
+    refs: refs/heads/* refs/tags/*
+    withLfs: true
+    force: false
+    condition: ALL_PREVIOUS_STEPS_WERE_SUCCESSFUL
+  triggers:
+  - !ScheduleTrigger
+    cronExpression: 10 20 3 * * ?
+    projects: yhm-ypa
+  retryCondition: never
+  maxRetries: 3
+  retryDelay: 30
+  timeout: 3600
