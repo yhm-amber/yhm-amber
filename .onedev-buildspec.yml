@@ -3,7 +3,7 @@ jobs:
 - name: pusher
   steps:
   - !PushRepository
-    name: yhm-amber
+    name: to yhm-amber/yhm-amber
     remoteUrl: https://github.com/yhm-amber/yhm-amber.git
     userName: yhm-amber
     passwordSecret: yhm-amber
