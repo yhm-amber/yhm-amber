@@ -1,0 +1,19 @@
+version: 19
+jobs:
+- name: pusher
+  steps:
+  - !PushRepository
+    name: yhm-amber
+    remoteUrl: https://github.com/yhm-amber/yhm-amber.git
+    userName: yhm-amber
+    passwordSecret: yhm-amber
+    withLfs: true
+    force: true
+    condition: ALL_PREVIOUS_STEPS_WERE_SUCCESSFUL
+  triggers:
+  - !BranchUpdateTrigger
+    projects: yhm-ypa
+  retryCondition: never
+  maxRetries: 3
+  retryDelay: 30
+  timeout: 3600
