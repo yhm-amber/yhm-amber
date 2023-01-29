@@ -1,9 +1,9 @@
 version: 19
 jobs:
-- name: pusher
+- name: pusher all-branch commit
   steps:
   - !PushRepository
-    name: to yhm-amber/yhm-amber
+    name: force to yhm-amber/yhm-amber
     remoteUrl: https://github.com/yhm-amber/yhm-amber.git
     userName: yhm-amber
     passwordSecret: yhm-amber
@@ -17,7 +17,7 @@ jobs:
   maxRetries: 3
   retryDelay: 30
   timeout: 3600
-- name: puller
+- name: puller all-branch cron.03:20:10
   steps:
   - !PullRepository
     name: from yhm-amber/yhm-amber
