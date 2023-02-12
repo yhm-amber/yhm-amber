@@ -1,4 +1,4 @@
-[`GH.st`](https://githubstatus.com/)
+[`github.status`](https://githubstatus.com/)
 
 ~~~~ postscript
 😃🤔😄
