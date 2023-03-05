@@ -19,3 +19,8 @@
 这就是哲学的任务。
 
 *实体本身就是实体的解释。*
+
+> It is there it is. non more logs, it being says.
+> 
+> 其若存在，其已在此。毋需多言，其言其是。
+> 
