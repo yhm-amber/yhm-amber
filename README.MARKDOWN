@@ -1,6 +1,6 @@
 [`github.status`](https://githubstatus.com/)
 
-[![S](https://readme-typing-svg.demolab.com?font=anka+coder&duration=2048&pause=1024&color=F72C4F&center=true&vCenter=true&width=435&lines=yhm+ypa+%F0%9F%98%83;%F0%9F%98%90;%F0%9F%98%AC;%F0%9F%99%83)](https://git.io/typing-svg)
+[![S](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1024&pause=1024&color=F74173&width=435&lines=ypa+y+yhm;%E5%9D%9A%E6%8C%81%E6%AC%B2%E6%9C%9B;%E7%A9%BF%E8%B6%8A%E5%B9%BB%E6%83%B3;%F0%9F%8F%B9;%F0%9F%8D%84)](..)
 
 ~~~~ postscript
 坚持欲望 穿越幻想 🍄🏹
