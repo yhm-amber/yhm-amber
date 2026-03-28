@@ -1,4 +1,3 @@
-[`github.status`](https://githubstatus.com/)
 
 [![S](https://readme-typing-svg.demolab.com/?font=Anka+Coder&duration=1024&pause=1024&color=F74173&center=true&width=435&lines=...;Hic+Rhodus,+hic+salta!)](../../..)
 
@@ -9,4 +8,5 @@ Hic Rhodus, hic salta ! 🌹💃
 ~~~~
 
 
+[`github.status`](https://githubstatus.com/)
 
